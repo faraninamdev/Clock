@@ -30,6 +30,10 @@ __🚀 How to Use:__
   
 - Click the "Switch to 12-hour" or "Switch to 24-hour" button to change the time format
 
+__🌐 Live Demo:__
+
+- https://faran-inam.github.io/Clock/
+
 __📄 License:__
 
  - This project is open-source and uses the MIT License.
@@ -44,4 +48,3 @@ __📧 Let's Connect:__
 
 - Email : faraninam.18@gmail.com
 
-- Live Demo : 
