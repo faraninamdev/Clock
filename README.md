@@ -32,7 +32,7 @@ __🚀 How to Use:__
 
 __🌐 Live Demo:__
 
-- https://faran-inam.github.io/Clock/
+- https://faraninamdev.github.io/Clock/
 
 __📄 License:__
 
